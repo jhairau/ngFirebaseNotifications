@@ -1,0 +1,42 @@
+{
+  "name": "ngFirebaseNotifications",
+  "version": "0.0.1",
+  "description": "Angular + Firebase Notifications Service for publishing & subscribing to topics",
+  "main": "dist/ngFirebaseNotifications.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhairau/ngFirebaseNotifications.git"
+  },
+  "keywords": [
+    "angular",
+    "firebase",
+    "notfications",
+    "push"
+  ],
+  "author": "Johnathan Hair <johnathan.hair.au@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhairau/ngFirebaseNotifications/issues"
+  },
+  "homepage": "https://github.com/jhairau/ngFirebaseNotifications",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-cli": "~0.1.9",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-uglify": "*",
+
+    "load-grunt-tasks": "~0.3.0",
+    "time-grunt": "~0.2.9",
+
+    "karma": "^0.12.37",
+    "karma-chrome-launcher": "^0.2.0",
+    "jasmine-core": "^2.3.4",
+    "karma-jasmine": "^0.3.5",
+    "grunt-karma": "^0.11.2",
+    "karma-phantomjs-launcher": "~0.1"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "ngFirebaseNotifications",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jhairau/ngFirebaseNotifications",
+  "authors": [
+    "Johnathan Hair <johnathan.hair.au@gmail.com>"
+  ],
+  "description": "Angular + Firebase Notifications Service for publishing & subscribing to topics",
+  "main": "dist/ngFirebaseNotifications.js",
+  "keywords": [
+    "angular",
+    "firebase",
+    "notifications",
+    "push"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "src",
+    "spec",
+    ".bowerrc",
+    ".gitignore",
+    ".jshintignore",
+    ".jshintrc",
+    "bower.json",
+    "gruntfile.js",
+    "package.json",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+      "angular": ">=1.2.1",
+      "angularfire": ">=1.1.1"
+  }
+}

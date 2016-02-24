@@ -6,7 +6,9 @@
     "Johnathan Hair <johnathan.hair.au@gmail.com>"
   ],
   "description": "Angular + Firebase Notifications Service for publishing & subscribing to topics",
-  "main": "dist/ngFirebaseNotifications.js",
+  "main": [
+    "dist/ngFirebaseNotifications.js"
+  ],
   "keywords": [
     "angular",
     "firebase",
